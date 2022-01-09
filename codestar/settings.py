@@ -34,7 +34,7 @@ X_FRAME_OPTIONS = "SAMEORIGIN"
 
 ALLOWED_HOSTS = ['django-codestar-blog.herokuapp.com', 'localhost']
 
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend' 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
 # Application definition
